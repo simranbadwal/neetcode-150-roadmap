@@ -8,4 +8,4 @@
   ### Binary Search: 0
   ### Sliding Window: 0
 
-#### Day 1 ✅ Aiming to Finish the Easys in the Array and Hashing Catagory. With a Good Understanding and Solution Notes.
+#### Day 2 ✅ Looking to Reinforce my understanding of the the Set and Hashmap Data Structures. Currently finding leetcode problems to do this.
