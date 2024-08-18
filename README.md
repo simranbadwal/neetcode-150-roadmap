@@ -8,7 +8,7 @@
   ### Binary Search: 0
   ### Sliding Window: 0
 
-#### Day 3 ✅ Still Looking to Reinforce my understanding of the the Array and Hashing Data Structures. I am struggling to fully understand questions before solving them, so I need to work on using the 4 steps created by me in order to solve leetcode problems.
+#### Day 3 ✅ Found out that to reinforce my Array and Hashing understand it's best that I create documentation for these data structures, understanding why certain data structures are useful, and repetition in order to remember when to call them.
 
 #### Steps to Problem Solving
 ##### 1. Problem Definition (understand what the problem is asking and write it down, what are the deliverables?)
